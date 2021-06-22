@@ -15,9 +15,9 @@ Future FullStack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ```javascript
 const lucianoguzman99 = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, SQL, Prolog,Haskell],
+  code: [Javascript, HTML, CSS, Python, SQL, Prolog, Haskell],
   tools: [],
- challenge: "I am doing the #100DaysOfCode challenge focused on node.js and javascript"
+ challenge: "I'm doing the #100DaysOfCode challenge focused on node.js and javascript"
 }
 ```
 <h3 align="left">Languages and Tools:</h3>

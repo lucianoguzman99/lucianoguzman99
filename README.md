@@ -1,5 +1,5 @@
 <h2> Hi, I'm Luciano Guzman! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src=" " width="230">
+<img align='right' src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76115bfae23d12e9edd6409aca2e43421af59aec25b6&rid=giphy.gif&ct=g" width="230">
 <p><em>Systems Engineer at <a href="https://utn.edu.ar/es/">UTN</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Future FullStack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -9,7 +9,7 @@ Future FullStack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub lucianoguzman99](https://img.shields.io/github/followers/lucianoguzman99?label=follow&style=social)](https://github.com/lucianoguzman99)
 
 
-### <img src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76115bfae23d12e9edd6409aca2e43421af59aec25b6&rid=giphy.gif&ct=g" width="50"> A little more about me...  
+### <img src="" width="50"> A little more about me...  
 
 ```javascript
 const lucianoguzman99 = {

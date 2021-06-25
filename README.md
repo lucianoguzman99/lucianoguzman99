@@ -9,7 +9,7 @@ Future FullStack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub lucianoguzman99](https://img.shields.io/github/followers/lucianoguzman99?label=follow&style=social)](https://github.com/lucianoguzman99)
 
 
-### <img src=" " width="50"> A little more about me...  
+### <img src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76115bfae23d12e9edd6409aca2e43421af59aec25b6&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 ```javascript
 const lucianoguzman99 = {

@@ -1,2 +1,5 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v0.0.18
+uses: Platane/snk@master
+  with:
+    github_user_name: lucianoguzman99
+
+    svg_out_path: images/snk.svg

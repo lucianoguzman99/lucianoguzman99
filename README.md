@@ -17,7 +17,7 @@ const lucianoguzman99 = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, SQL, PLSQL, Prolog, Haskell],
   tools: [React, SASS, Bootstrap],
- challenge: "I'm doing the #100DaysOfCode challenge focused on React an JavaScript"
+ challenge: "I learn every day to become a better professional."
 }
 ```
 <h3 align="left">Languages and Tools:</h3>

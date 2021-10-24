@@ -1,8 +1,8 @@
 <h2> Hi, I'm Luciano Guzman! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76115bfae23d12e9edd6409aca2e43421af59aec25b6&rid=giphy.gif&ct=g" width="230">
 <p><em>Systems Engineer at <a href="https://utn.edu.ar/es/">UTN</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-<p><em>Quality Engineer Intern at <a href="https://www.vates.com/">Vates</a><img src="https://media1.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=ecf05e47zjwkgqps3493i6g8t05odcfj6dap21kjrpsrsu41&rid=giphy.gif&ct=g" width="30"></br>
-Future FullStack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>iOS Mobile Engineer at <a href="https://www.naranjax.com/">NaranjaX</a><img src="https://media1.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=ecf05e47zjwkgqps3493i6g8t05odcfj6dap21kjrpsrsu41&rid=giphy.gif&ct=g" width="30"></br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: gzrdev](https://img.shields.io/twitter/follow/gzrdev?style=social)](https://twitter.com/gzrdev)

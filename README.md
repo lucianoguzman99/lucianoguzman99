@@ -15,7 +15,7 @@
 ```javascript
 const lucianoguzman99 = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, SQL, PLSQL, Prolog, Haskell],
+  code: [Swift, Javascript, HTML, CSS, Python, SQL, PLSQL, Prolog, Haskell],
   tools: [React, SASS, Bootstrap],
  challenge: "I learn every day to become a better professional."
 }

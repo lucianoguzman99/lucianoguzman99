@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm an Jr. iOS Software Engineer and studying System Engineering at UTN
+I'm an iOS Software Engineer and studying System Engineering at UTN
 
 
 ## 🔗 Links
@@ -13,7 +13,7 @@ I'm an Jr. iOS Software Engineer and studying System Engineering at UTN
 ## More about me 👀
 👩‍💻 I'm currently working on learn every day to become a better professional.
 
-🧠 I'm currently learning Combine (Swift) and Node.js
+🧠 I'm currently learning Kotlin
 
 💬 Ask me about something at lucianoguzmanc@gmail.com
 
